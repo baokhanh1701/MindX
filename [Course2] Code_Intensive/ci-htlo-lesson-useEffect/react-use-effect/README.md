@@ -1,0 +1,1 @@
+* Mock API: `https://638b277b81df38ab3462aee1.mockapi.io/api/v1/teams`
